@@ -1,0 +1,66 @@
+.container {
+  /* position: absolute; */
+  /* width:100%; */
+  /* height:auto; */
+}
+
+.outline {
+  position: relative;
+  z-index: 100;
+  width: 100%;
+  height: auto;
+}
+
+.skin {
+  position: relative;
+  transform: translate(0%, -105%);
+}
+
+.shroom {
+  position: relative;
+  transform: translate(0%, -171.05%);
+}
+
+.cls-1 {
+  fill: #fff;
+}
+
+.cls-2 {
+  fill: #666;
+}
+
+.cls-3 {
+  fill: #fdcc9a;
+}
+
+.cls-4 {
+  fill: #cb9966;
+}
+
+.cls-5 {
+  fill: #f2f2f2;
+}
+
+.cls-6 {
+  fill: #b3b3b3;
+}
+
+.cls-7 {
+  fill: #fff;
+}
+
+.cls-8 {
+  fill: #f66;
+}
+
+.cls-9 {
+  fill: red;
+}
+
+.cls-10 {
+  fill: maroon;
+}
+
+.cls-11 {
+  fill: #bf0000;
+}

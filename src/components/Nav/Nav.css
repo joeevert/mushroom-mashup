@@ -1,13 +1,13 @@
-.App {
+.Nav {
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
+.Nav-logo {
+  animation: Nav-logo-spin infinite 20s linear;
   height: 40vmin;
 }
 
-.App-header {
+.Nav-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -18,11 +18,11 @@
   color: white;
 }
 
-.App-link {
+.Nav-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
+@keyframes Nav-logo-spin {
   from {
     transform: rotate(0deg);
   }
