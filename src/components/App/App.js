@@ -19,12 +19,12 @@ class App extends Component {
     return (
       <div className="App">
         {/* <Nav /> */}
-        <div className={this.state.bgColor} /><br />
+        {/* <div className={this.state.bgColor} /><br /> */}
         {/* <button onClick={this.changeColor} style={{margin: 0, padding: 0}}>
           Change color
         </button> */}
-        {colors.map( (color, index) =>
-        <div key={index} className={color} onClick={() => this.selectColor(color)}/>)}
+        {/* {colors.map( (color, index) =>
+        <div key={index} className={color} onClick={() => this.selectColor(color)}/>)} */}
         <Mushroom />
       </div>
     );

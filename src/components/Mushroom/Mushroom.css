@@ -1,7 +1,7 @@
 .container {
-  /* position: absolute; */
-  /* width:100%; */
-  /* height:auto; */
+  width: 75%;
+  margin: auto;
+  background-color: aqua
 }
 
 .outline {
@@ -45,11 +45,7 @@
   fill: #b3b3b3;
 }
 
-.cls-7 {
-  fill: #fff;
-}
-
-.cls-8 {
+/* .cls-8 {
   fill: #f66;
 }
 
@@ -63,4 +59,4 @@
 
 .cls-11 {
   fill: #bf0000;
-}
+} */
