@@ -1,37 +1,10 @@
-.container {
-  width: 75%;
-  margin: auto;
-}
-
-.outline {
-  position: absolute;
-  z-index: 10;
-  left: 0;
-  right: 0;
-}
-
-.skin {
-  position: absolute;
-  left: 0;
-  right: 0;
-}
-
-.shroom {
-  position: absolute;
-  left: 0;
-  right: 0;
-}
-
 .colorSelector {
+  display: inline-block;
   cursor: pointer;
   width: 50px;
   height: 50px;
-  margin: 0px;
+  margin: 0 0 2em 0;
   padding: 0px;
-}
-
-.trans {
-  fill: rgb(255, 255, 255, 0);
 }
 
 .cls-1 {

@@ -1,45 +1,4 @@
 .App {
-  /* display: flex; */
   text-align: center;
   margin: auto;
-}
-
-.red {
-  display: inline-block;
-  cursor: pointer;
-  background-color: red;
-  width: 50px;
-  height: 50px;
-  margin: 0px;
-  padding: 0px;
-}
-
-.blue {
-  display: inline-block;
-  cursor: pointer;
-  background-color: blue;
-  width: 50px;
-  height: 50px;
-  margin: 0px;
-  padding: 0px;
-}
-
-.green {
-  display: inline-block;
-  cursor: pointer;
-  background-color: green;
-  width: 50px;
-  height: 50px;
-  margin: 0px;
-  padding: 0px;
-}
-
-.yellow {
-  display: inline-block;
-  cursor: pointer;
-  background-color: yellow;
-  width: 50px;
-  height: 50px;
-  margin: 0px;
-  padding: 0px;
 }
