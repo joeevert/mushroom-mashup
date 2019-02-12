@@ -7,6 +7,15 @@
   padding: 0px;
 }
 
+.range-div {
+  margin: 1.5em;
+}
+
+.range-label {
+  display: block;
+  margin-bottom: .5em;
+}
+
 .cls-1 {
   fill: #fff;
 }
@@ -29,4 +38,8 @@
 
 .cls-6 {
   fill: #b3b3b3;
+}
+
+.form-element {
+  /* display: block; */
 }
