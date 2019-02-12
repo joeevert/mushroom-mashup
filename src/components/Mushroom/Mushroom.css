@@ -1,10 +1,14 @@
-.colorSelector {
+.color-selector {
   display: inline-block;
   cursor: pointer;
-  width: 50px;
-  height: 50px;
-  margin: 0 0 2em 0;
-  padding: 0px;
+  width: 35px;
+  height: 35px;
+}
+
+.outline {
+  margin: auto;
+  width: 70vw;
+  height: auto;
 }
 
 .range-div {
@@ -40,6 +44,14 @@
   fill: #b3b3b3;
 }
 
-.form-element {
-  /* display: block; */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+    .outline {
+      margin: auto;
+      width: 100vw;
+      height: auto;
+    }
 }

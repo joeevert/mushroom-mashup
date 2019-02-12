@@ -69,7 +69,7 @@ class MushroomTest extends Component {
         {colors.map( (color, index) =>
           <div 
             key={index}
-            className="colorSelector"
+            className="color-selector"
             style={{backgroundColor: color.hsl}} 
             onClick={() => this.selectColor(color.hue)}
           />
@@ -136,7 +136,7 @@ class MushroomTest extends Component {
 
 const styles = {
   instructions: {
-    margin: '1em'
+    margin: '.75em'
   }
 }
 
